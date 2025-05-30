@@ -1,0 +1,32 @@
+Comanda ID: 2
+Client: Ionescu Vlad
+Status: In asteptare
+Articole:
+  - ID Produs: P003, Nume: Telefon, Pret: 2500, Cantitate: 1
+-----------------------------
+Comanda ID: 3
+Client: Marin Elena
+Status: In asteptare
+Articole:
+  - ID Produs: P004, Nume: Casti, Pret: 150, Cantitate: 1
+  - ID Produs: P005, Nume: Tastatura, Pret: 200, Cantitate: 1
+-----------------------------
+Comanda ID: 4
+Client: Dumitrescu Paul
+Status: In asteptare
+Articole:
+  - ID Produs: P006, Nume: Monitor, Pret: 900, Cantitate: 1
+-----------------------------
+Comanda ID: 5
+Client: Stan Maria
+Status: In asteptare
+Articole:
+  - ID Produs: P007, Nume: Imprimanta, Pret: 600, Cantitate: 1
+  - ID Produs: P008, Nume: Hartie A4, Pret: 25, Cantitate: 5
+-----------------------------
+Comanda ID: 45
+Client: nume
+Status: In asteptare
+Articole:
+  - ID Produs: 456, Nume: mac, Pret: 956, Cantitate: 1
+-----------------------------
